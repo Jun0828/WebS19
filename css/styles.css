@@ -2,7 +2,7 @@ body {
   background-color: pink;
   font-family: sans-serif;
 }
-li {
+nav li {
   text-decoration: none;
   list-tyle: none;
 }
